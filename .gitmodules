@@ -1,0 +1,6 @@
+[submodule "third_party/jest-ts-js"]
+	path = third_party/jest-ts-js
+	url = https://github.com/Teneff/jest-ts-js.git
+[submodule "third_party/jest"]
+	path = third_party/jest
+	url = https://github.com/Teneff/jest.git
